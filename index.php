@@ -1,6 +1,3 @@
-<?PHP 
-    echo "Hello, ";
+<?php 
+    echo "Hello World";
 ?>
-hii there..
-
-ABCD
